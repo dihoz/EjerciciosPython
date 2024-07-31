@@ -1,0 +1,3 @@
+
+usuario,nicolas,pass,1234,saldo,5000,gghgh,3000
+ttttt,2000
