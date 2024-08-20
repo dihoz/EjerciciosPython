@@ -1,6 +1,7 @@
 import sys
 if len(sys.argv)<2:
     print("Falta argumento")
+    
 else:
     ventas = {
     "Enero": 15000,
